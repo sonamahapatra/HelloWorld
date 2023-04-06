@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to 276 Batch");
-            Console.WriteLine("Adding to local");
+            Console.WriteLine("modifing to local");
             Console.ReadLine();
         }
     }
